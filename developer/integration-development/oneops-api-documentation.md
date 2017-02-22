@@ -420,7 +420,7 @@ Body:
 
 ## POST Request to execute action
 
-`https://<your-server>/<ORGANIZATION-NAME>/operation/procedures`
+`https://<your-server>/<ORGANIZATION-NAME>/operations/procedures`
 
 
 Body:
